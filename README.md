@@ -86,22 +86,15 @@ My personal website for projects, experiments, and work in progress. Built with 
 
 </div>
 
-## GitHub at a glance
+## GitHub activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vatsalost&show_icons=true&hide_border=true&bg_color=00000000&title_color=9ca3af&text_color=d4d4d8&icon_color=a1a1aa&rank_icon=github" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalost&layout=compact&hide_border=true&bg_color=00000000&title_color=9ca3af&text_color=d4d4d8" alt="Most used languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=vatsalost&hide_border=true&background=00000000&ring=a1a1aa&fire=d4d4d8&currStreakLabel=d4d4d8&sideLabels=a1a1aa&dates=71717a" alt="GitHub contribution streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vatsalost&bg_color=00000000&color=d4d4d8&line=a1a1aa&point=ffffff&area=true&hide_border=true" width="96%" alt="Contribution activity graph"/>
+<img src="https://streak-stats.demolab.com?user=vatsalost&background=0d1117&border=30363d&ring=8b949e&fire=f0f6fc&currStreakNum=f0f6fc&sideNums=f0f6fc&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub contribution streak"/>
 
 </div>
+
+GitHub's own contribution calendar is available in the **Contributions** section of this profile. I removed the other third-party stats and activity-graph images so the README doesn't show broken image placeholders when those services are unavailable.
 
 ## Find me
 
